@@ -1041,6 +1041,7 @@ public abstract class XAdapter<T> extends RecyclerView.Adapter {
     /**
      * 设置是否使用默认的Laoder Layout
      *
+     *
      * @param useDefaultLoaderLayout
      */
     public void setUseDefaultLoaderLayout(boolean useDefaultLoaderLayout) {

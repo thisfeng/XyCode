@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 
 /**
  * Created by XY on 2017-05-22.
- *
+ * 2
  */
  class ViewHolderAnimator {
     public static class ViewHolderAnimatorListener extends AnimatorListenerAdapter {

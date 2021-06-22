@@ -1,0 +1,3 @@
+include ':xycode'
+include ':app'
+rootProject.name = "XyCode"
